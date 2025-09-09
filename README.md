@@ -85,3 +85,6 @@ docker compose down -v
 }
 ```
 
+<img width="1279" height="766" alt="image" src="https://github.com/user-attachments/assets/7edd7769-fee0-4478-9016-34998f057d9a" />
+
+
