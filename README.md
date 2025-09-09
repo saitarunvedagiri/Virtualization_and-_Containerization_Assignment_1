@@ -32,3 +32,31 @@ Results are written to `out/summary.json` and also printed to the console.
 ## 🛠️ How to Run  
 
 ### 1. Build and start the stack
+```bash
+docker compose up --build
+```
+
+### 2. Alternative: One-command run with Makefile
+```bash
+make all
+```
+
+### 3. Stop and remove containers + volumes
+
+```bash
+docker compose down -v
+```
+
+## 📂 Project Structure
+<code>.
+├── app/
+│ ├── Dockerfile
+│ └── main.py
+├── db/
+│ ├── Dockerfile
+│ └── init.sql
+├── out/ # Generated output
+│ └── summary.json
+├── compose.yml
+├── Makefile
+└── README.md</code>
