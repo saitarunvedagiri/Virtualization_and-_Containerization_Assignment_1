@@ -35,6 +35,8 @@ Results are written to `out/summary.json` and also printed to the console.
 ```bash
 docker compose up --build
 ```
+<img width="940" height="753" alt="image" src="https://github.com/user-attachments/assets/438ae9ea-9cf6-4571-b38e-1ac575def3bc" />
+
 
 ### 2. Alternative: One-command run with Makefile
 ```bash
