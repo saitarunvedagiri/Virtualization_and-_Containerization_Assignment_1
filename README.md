@@ -57,7 +57,7 @@ docker compose down -v
 ├── db/
 │ ├── Dockerfile
 │ └── init.sql
-├── out/ # Generated output
+├── out/
 │ └── summary.json
 ├── compose.yml
 ├── Makefile
