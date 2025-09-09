@@ -90,3 +90,12 @@ docker compose down -v
 <img width="1279" height="766" alt="image" src="https://github.com/user-attachments/assets/7edd7769-fee0-4478-9016-34998f057d9a" />
 
 
+### Reflection
+This assignment taught me how to:
+Run a PostgreSQL service in a container with seeded data.
+Use Docker Compose to orchestrate multiple containers.
+Connect a Python app to a database using environment variables.
+Automate workflows with a Makefile for reproducibility.
+In the future, I would improve the project by adding larger datasets and extending the app to compute additional statistics.
+
+
